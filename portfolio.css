@@ -6,7 +6,7 @@
 }
 
 body {
-  background:#f9f9ff;
+  background:#ffffff;
   color: #333;
 }
 
@@ -84,6 +84,20 @@ nav .btn {
   color: #6a4df4;
 }
 
+.icon{
+
+  width:60px;
+  height:60px;
+  border:none;
+  
+  
+}
+.icon img{
+  width:50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
 
 .hero-img img {
   width: 400px;
@@ -92,8 +106,8 @@ nav .btn {
   border: none;
 
   box-shadow:
-    0 0 40px rgba(56, 189, 248, 0.2),
-    inset 0 0 40px rgba(43, 184, 245, 0.15);
+    0 0 10px rgba(56, 189, 248, 0.2),
+    inset 0 0 0px rgba(43, 184, 245, 0);
 }
 
 
